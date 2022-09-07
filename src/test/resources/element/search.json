@@ -1,0 +1,22 @@
+[
+  {
+    "keyword": "categories",
+    "type": "xpath",
+    "value": "//*[@class='nav-search-scope nav-sprite']"
+  },
+  {
+    "keyword": "computers",
+    "type": "xpath",
+    "value": "//option[text()='Bilgisayarlar']"
+  },
+  {
+    "keyword": "searchText",
+    "type": "id",
+    "value": "twotabsearchtextbox"
+  },
+  {
+    "keyword": "search",
+    "type": "id",
+    "value": "nav-search-submit-button"
+  }
+]

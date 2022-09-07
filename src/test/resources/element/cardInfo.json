@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "addCardButton",
+    "type": "xpath",
+    "value": "//span[text()='Kredi kartı veya banka kartı ekleyin']"
+  },
+  {
+    "keyword": "addCreditCardNumber",
+    "type": "css",
+    "value": "[name='addCreditCardNumber']"
+  },
+  {
+    "keyword": "nameOnCard",
+    "type": "css",
+    "value": "[name='ppw-accountHolderName']"
+  },
+  {
+    "keyword": "month",
+    "type": "xpath",
+    "value": "(//*[@class='a-button-text a-declarative'])[1]"
+  },
+  {
+    "keyword": "selectMonth",
+    "type": "css",
+    "value": "option[value='12']"
+  },
+  {
+    "keyword": "year",
+    "type": "xpath",
+    "value": "(//*[@class='a-button-text a-declarative'])[2]"
+  },
+  {
+    "keyword": "selectYear",
+    "type": "css",
+    "value": "option[value='2026']"
+  },
+  {
+    "keyword": "addCard",
+    "type": "css",
+    "value": "[name='ppw-widgetEvent:AddCreditCardEvent']"
+  },
+  {
+    "keyword": "continueToBuy",
+    "type": "xpath",
+    "value": "(//*[@class='a-button a-button-span12 a-button-primary pmts-button-input'])[1]"
+  },
+  {
+    "keyword": "continueToBuy2",
+    "type": "xpath",
+    "value": "(//*[@name='ppw-widgetEvent:SetPaymentPlanSelectContinueEvent'])[1]"
+  }
+]

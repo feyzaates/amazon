@@ -1,0 +1,18 @@
+Created by testinium on 18.08.2022
+
+This is a concept file with following syntax for each concept.
+# Add Address
+* "addressTitle" sendKeys "Test Deneme"
+* "phoneNumber" sendKeys "5897897891"
+* "fullAddress" sendKeys "testinium"
+* "addressDetail" sendKeys "depark"
+* "city" sendKeys "İzmir" with js
+* "region" sendKeys "Buca" with js
+* "district" sendKeys "Kuruçeşme Mh." with js
+* "postalCode" sendKeys "35390" with js
+* "submitTheAddress" click
+* "1" wait
+* "check3" click if is visible
+* "check4" click if is visible
+* "check5" click if is visible
+* "2" wait

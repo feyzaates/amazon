@@ -1,0 +1,37 @@
+[
+  {
+    "keyword": "acceptCookies",
+    "type": "id",
+    "value": "sp-cc-accept"
+  },
+  {
+    "keyword": "hello",
+    "type": "xpath",
+    "value": "//*[@class='nav-line-1-container']"
+  },
+  {
+  "keyword": "loginButton",
+  "type": "xpath",
+  "value": "(//*[text()='Giriş yap'])[1]"
+  },
+  {
+  "keyword": "mail",
+  "type": "css",
+  "value": "[type='email']"
+  },
+  {
+    "keyword": "continue",
+    "type": "xpath",
+    "value": "//span[@id='continue']"
+  },
+  {
+    "keyword": "password",
+    "type": "xpath",
+    "value": "//input[@type='password']"
+  },
+  {
+    "keyword": "signInSubmit",
+    "type": "id",
+    "value": "signInSubmit"
+  }
+]

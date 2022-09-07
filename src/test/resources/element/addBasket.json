@@ -1,0 +1,27 @@
+[
+  {
+    "keyword": "productPrices",
+    "type": "xpath",
+    "value": "//div/div/span[@class='a-price']/span[@aria-hidden='true']"
+  },
+  {
+    "keyword": "productPictures",
+    "type": "css",
+    "value": "[height='135']"
+  },
+  {
+    "keyword": "addCart",
+    "type": "css",
+    "value": "[value='Sepete Ekle']"
+  },
+  {
+    "keyword": "check1",
+    "type": "css",
+    "value": "[name='proceedToRetailCheckout']"
+  },
+  {
+    "keyword": "check2",
+    "type": "css",
+    "value": "[aria-labelledby='attach-sidesheet-checkout-button-announce']"
+  }
+]

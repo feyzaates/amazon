@@ -1,0 +1,11 @@
+Created by testinium on 18.08.2022
+
+This is a concept file with following syntax for each concept.
+# Buy
+* "unnecessary1" click if is visible
+* "unnecessary2" click if is visible
+* "unnecessary3" click if is visible
+* "unnecessary4" click if is visible
+* "1" wait
+* "buyNow" click
+* "3" wait

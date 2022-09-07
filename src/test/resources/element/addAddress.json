@@ -1,0 +1,62 @@
+[
+  {
+    "keyword": "addressTitle",
+    "type": "css",
+    "value": "[name='address-ui-widgets-enterAddressFullName']"
+  },
+  {
+    "keyword": "phoneNumber",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressPhoneNumber"
+  },
+  {
+    "keyword": "fullAddress",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressLine1"
+  },
+  {
+    "keyword": "addressDetail",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressLine2"
+  },
+  {
+    "keyword": "city",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressCity"
+  },
+  {
+    "keyword": "region",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressStateOrRegion"
+  },
+  {
+    "keyword": "district",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressDistrictOrCounty"
+  },
+  {
+    "keyword": "postalCode",
+    "type": "id",
+    "value": "address-ui-widgets-enterAddressPostalCode"
+  },
+  {
+    "keyword": "submitTheAddress",
+    "type": "css",
+    "value": "[aria-labelledby='address-ui-widgets-form-submit-button-announce']"
+  },
+  {
+    "keyword": "check3",
+    "type": "id",
+    "value": "nav-cart-count-container"
+  },
+  {
+    "keyword": "check4",
+    "type": "css",
+    "value": "[name='proceedToRetailCheckout']"
+  },
+  {
+    "keyword": "check5",
+    "type": "xpath",
+    "value": "(//*[@data-action='page-spinner-show'])[1]"
+  }
+]

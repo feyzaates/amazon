@@ -1,0 +1,27 @@
+[
+  {
+    "keyword": "unnecessary1",
+    "type": "xpath",
+    "value": "(//*[@class='a-icon a-icon-radio'])[2]"
+  },
+  {
+    "keyword": "unnecessary2",
+    "type": "css",
+    "value": "[type='submit']"
+  },
+  {
+    "keyword": "unnecessary3",
+    "type": "xpath",
+    "value": "(//*[@class='a-declarative a-button-text '])[1]"
+  },
+  {
+    "keyword": "unnecessary4",
+    "type": "xpath",
+    "value": "(//*[@data-action='page-spinner-show'])[1]"
+  },
+  {
+    "keyword": "buyNow",
+    "type": "xpath",
+    "value": "(//input[@title='Şimdi al'])[1]"
+  }
+]

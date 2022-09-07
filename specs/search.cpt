@@ -1,0 +1,8 @@
+Created by testinium on 18.08.2022
+
+This is a concept file with following syntax for each concept.
+# Search macbook pro in computers category
+* "categories" hover
+* "computers" click
+* "searchText" sendKeys "macbook pro"
+* "search" click

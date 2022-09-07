@@ -1,0 +1,22 @@
+[
+  {
+    "keyword": "products",
+    "type": "css",
+    "value": "[class='a-link-normal s-no-outline']"
+  },
+  {
+    "keyword": "addFavoritesList",
+    "type": "css",
+    "value": "[id='add-to-wishlist-button-submit']"
+  },
+  {
+    "keyword": "closeTheFrame",
+    "type": "css",
+    "value": "[class=' a-button-close a-declarative']"
+  },
+  {
+    "keyword": "showTheList",
+    "type": "xpath",
+    "value": "//*[text()='Listenizi Görüntüleyin']"
+  }
+]

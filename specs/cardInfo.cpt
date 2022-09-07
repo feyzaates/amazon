@@ -1,0 +1,17 @@
+Created by testinium on 18.08.2022
+
+This is a concept file with following syntax for each concept.
+# Add Card Info
+* "addCardButton" click
+* "2" wait
+* "0" change frame with index
+* "1" wait
+* "addCreditCardNumber" sendKeys "5406675406675403"
+* "nameOnCard" sendKeys "ING Bank"
+* "month" click
+* "selectMonth" click
+* "year" click
+* "selectYear" click
+* "addCard" click
+* parent frame
+* "continueToBuy" click
